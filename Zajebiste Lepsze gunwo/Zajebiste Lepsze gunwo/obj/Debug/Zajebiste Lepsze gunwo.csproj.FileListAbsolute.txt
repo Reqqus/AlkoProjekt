@@ -1,0 +1,7 @@
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\bin\Debug\Zajebiste Lepsze gunwo.exe.config
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\bin\Debug\Zajebiste Lepsze gunwo.exe
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\bin\Debug\Zajebiste Lepsze gunwo.pdb
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\obj\Debug\Zajebiste Lepsze gunwo.csprojAssemblyReference.cache
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\obj\Debug\Zajebiste Lepsze gunwo.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\obj\Debug\Zajebiste Lepsze gunwo.exe
+C:\Users\Tomek\source\repos\Zajebiste Lepsze gunwo\Zajebiste Lepsze gunwo\obj\Debug\Zajebiste Lepsze gunwo.pdb
